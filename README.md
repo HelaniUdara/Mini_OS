@@ -7,8 +7,8 @@ Blog article : https://medium.com/@udarahseekku/build-a-simple-os-setting-up-the
 
 Second week --> Build A Simple OS (Part 2) #Implement with C
 
-Blog article : [https://medium.com/@udarahseekku/build-a-simple-os-part-2-b869eaba99c2](url)
+Blog article : https://medium.com/@udarahseekku/build-a-simple-os-part-2-b869eaba99c2
 
 Third week --> Build A Simple OS (Part 3) #Integrate outputs
 
-Blog article : [https://medium.com/@udarahseekku/build-a-simple-os-part-3-19abea0514b9](url)
+Blog article : https://medium.com/@udarahseekku/build-a-simple-os-part-3-19abea0514b9
